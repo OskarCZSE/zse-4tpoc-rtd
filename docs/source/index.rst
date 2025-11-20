@@ -41,8 +41,7 @@ Liniowy kod:
 ``fragment kodu``
 
 Blokowy kod:
-.. code-block:: python
-
+.. code-block:: python3
    def example_function():
        print("To jest przykład funkcji.")
 
