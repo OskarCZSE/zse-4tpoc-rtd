@@ -51,7 +51,7 @@ Odnośnik
 ========
 
 Lokalny (Read the Docs):
-`Link do sekcji <#Nagłówek Poziom 1>`_
+`Link do sekcji <#nagłówek-poziom-1>`_
 
 Zewnętrzny:
 `Przykład zewnętrznego odnośnika <https://edu.gplweb.pl/?svc=Lesson_Asset&id=tida&lesson=27&class=4tp&load=85>`_
