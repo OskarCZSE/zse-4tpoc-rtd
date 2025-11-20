@@ -21,18 +21,17 @@ Nagłówek Poziom 4
 Akapit tekstowy (treść)
 ========================
 
-To jest akapit tekstowy. Składa się z kilku zdań, które są ze sobą powiązane i tworzą spójną całość.
+Akapit tekstowy akapit aaa
 
 
 Akapit informacyjny
 ====================
 
 .. note::
-   To jest informacja w formie notatki. Przykład ważnej informacji.
+   Jakaś tam notatka jest.
 
 .. tip::
-   To jest wskazówka, która może pomóc użytkownikowi w realizacji zadania.
-
+   Jakaś tam dodatkowa informacja tip czy coś takiego
 
 Fragment kodu
 ==============
@@ -77,7 +76,7 @@ Obraz
 =====
 
 .. image:: https://docs.readthedocs.com/platform/stable/_static/logo.svg
-   :alt: Alternatywny tekst dla obrazu
+   :alt: Alt tekst do obrazka
    :caption: Podpis pod obrazem
 
 
