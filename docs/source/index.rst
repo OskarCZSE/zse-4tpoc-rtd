@@ -59,9 +59,9 @@ Listy
 =====
 
 Numerowana:
-| 1. Pierwszy element
-| 2. Drugi element
-| 3. Trzeci element
+ | 1. Pierwszy element
+ | 2. Drugi element
+ | 3. Trzeci element
 
 Wypunktowana:
 * Pierwszy element
