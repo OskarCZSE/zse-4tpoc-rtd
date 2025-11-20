@@ -101,4 +101,4 @@ Contents
 .. toctree::
 
    usage
-   api
+   kontakt
