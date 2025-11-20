@@ -64,9 +64,9 @@ Numerowana:
  | 3. Trzeci element
 
 Wypunktowana:
-* Pierwszy element
-* Drugi element
-* Trzeci element
+ | * Pierwszy element
+ | * Drugi element
+ | * Trzeci element
 
 Lista definicji:
 Nazwa definicji
