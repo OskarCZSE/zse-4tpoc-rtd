@@ -91,6 +91,13 @@ Tabela
 | Komórka 3  | Komórka 4 |
 +------------+-----------+
 
+.. note::
+
+   This project is under active development.
+
+Contents
+--------
+
 .. toctree::
 
    usage
