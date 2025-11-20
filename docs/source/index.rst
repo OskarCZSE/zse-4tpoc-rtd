@@ -90,8 +90,8 @@ Tabela
 | Komórka 1  | Komórka 2 |
 | Komórka 3  | Komórka 4 |
 +------------+-----------+
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Spis treści:
-   api
+
    usage
+   api
