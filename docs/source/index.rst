@@ -41,12 +41,12 @@ Liniowy kod:
 ``fragment kodu``
 
 Blokowy kod:
-```
+``
 .. code-block:: python
 
    def example_function():
        print("To jest przykład funkcji.")
-```
+``
 
 Odnośnik
 ========
