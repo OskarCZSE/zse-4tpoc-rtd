@@ -54,4 +54,41 @@ Lokalny (Read the Docs):
 `Link do sekcji <#nagłówek-sekcji>`_
 
 Zewnętrzny:
-`Przykład zewnętrznego odnośnika <
+`Przykład zewnętrznego odnośnika <https://edu.gplweb.pl/?svc=Lesson_Asset&id=tida&lesson=27&class=4tp&load=85>`_
+
+
+Listy
+=====
+
+Numerowana:
+1. Pierwszy element
+2. Drugi element
+3. Trzeci element
+
+Wypunktowana:
+- Pierwszy element
+- Drugi element
+- Trzeci element
+
+Lista definicji:
+Nazwa definicji
+   Krótki opis lub definicja.
+
+
+Obraz
+=====
+
+.. image:: https://docs.readthedocs.com/platform/stable/_static/logo.svg
+   :alt: Alternatywny tekst dla obrazu
+   :caption: Podpis pod obrazem
+
+
+Tabela
+======
+
++------------+-----------+
+| Nagłówek 1 | Nagłówek 2|
++------------+-----------+
+| Komórka 1  | Komórka 2 |
+| Komórka 3  | Komórka 4 |
++------------+-----------+
