@@ -59,14 +59,14 @@ Listy
 =====
 
 Numerowana:
-1. Pierwszy element
-2. Drugi element
-3. Trzeci element
+#. Pierwszy element
+#. Drugi element
+#. Trzeci element
 
 Wypunktowana:
-- Pierwszy element
-- Drugi element
-- Trzeci element
+* Pierwszy element
+* Drugi element
+* Trzeci element
 
 Lista definicji:
 Nazwa definicji
