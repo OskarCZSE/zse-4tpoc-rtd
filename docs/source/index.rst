@@ -38,7 +38,7 @@ Fragment kodu
 ==============
 
 Liniowy kod:
-`fragment kodu`
+``fragment kodu``
 
 Blokowy kod:
 .. code-block:: python
