@@ -1,5 +1,5 @@
 ========================
-Składnia w reStructuredText
+Sprawozdanie RtD
 ========================
 
 Nagłówki tekstowe
