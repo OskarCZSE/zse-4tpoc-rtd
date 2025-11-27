@@ -99,8 +99,5 @@ Contents
 --------
 
 .. toctree::
-
    usage
    kontakt
-   notatka
-   index
